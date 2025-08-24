@@ -107,4 +107,19 @@ To ensure the Airbnb Clone backend is secure, the following key measures will be
 
 Security is crucial to protect user data, maintain trust, prevent fraud, and ensure the system operates reliably.
 
+## CI/CD Pipeline
+
+Continuous Integration (CI) and Continuous Deployment (CD) pipelines automate the process of testing, building, and deploying the application. This ensures that code changes are integrated smoothly, tested automatically, and deployed reliably without manual errors.
+
+**Importance for the project:**  
+- Reduces deployment errors and downtime.  
+- Speeds up development by automating repetitive tasks.  
+- Ensures that new features and bug fixes are delivered quickly and safely.  
+
+**Tools that could be used:**  
+- **GitHub Actions** – Automates testing and deployment workflows.  
+- **Docker** – Packages the application and dependencies into containers for consistent deployment.  
+- **Heroku / AWS / DigitalOcean** – Platforms for hosting and deploying the application.
+
+
 
