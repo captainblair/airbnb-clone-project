@@ -2,15 +2,11 @@ Airbnb Clone project — backend booking system simulation.
 Goals: backend learning, scalability, teamwork.
 
 Tech stack: Django, MySQL/PostgreSQL, GraphQL, Docker, GitHub Actions.
-                   
-                     TEAM ROLES 
-                     
-Backend Developer – Builds APIs, logic, integrates DB.
+                 
+                   ## Team Roles
 
-Database Admin – Designs schema, optimizes queries.
-
-DevOps Engineer – Handles CI/CD, deployments, Docker.
-
-QA Engineer – Tests APIs, ensures quality.
-
-Project Manager – Oversees progress, coordinates team.
+- **Backend Developer** – Builds APIs and backend logic.
+- **Database Administrator** – Designs the database schema and manages data.
+- **DevOps Engineer** – Handles CI/CD pipelines, deployment, and containerization.
+- **QA Engineer** – Tests the system and ensures quality.
+- **Project Manager** – Coordinates the team and oversees the project progress.
