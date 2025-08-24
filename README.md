@@ -68,3 +68,22 @@ The database is designed to store and manage all core data for the Airbnb Clone 
 - A review is associated with both a user and a property.
 - Each payment is linked to a specific booking.
 
+
+## Feature Breakdown
+
+- **User Management**  
+  Allows users to sign up, log in, and manage their profiles. Ensures that only authenticated users can make bookings or manage properties.
+
+- **Property Management**  
+  Enables hosts to add, update, and remove properties. Provides essential property details like location, price, and description for potential guests.
+
+- **Booking System**  
+  Allows users to book available properties for specific dates. Tracks booking status and prevents double bookings.
+
+- **Review System**  
+  Lets users leave ratings and comments for properties they have stayed in. Helps maintain transparency and trust among users.
+
+- **Payment Processing**  
+  Handles secure payments for bookings through multiple payment methods. Ensures that funds are correctly tracked and linked to bookings.
+
+
