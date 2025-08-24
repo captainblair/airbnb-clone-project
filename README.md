@@ -86,4 +86,25 @@ The database is designed to store and manage all core data for the Airbnb Clone 
 - **Payment Processing**  
   Handles secure payments for bookings through multiple payment methods. Ensures that funds are correctly tracked and linked to bookings.
 
+## API Security
+
+To ensure the Airbnb Clone backend is secure, the following key measures will be implemented:
+
+- **Authentication**  
+  Users must log in using secure credentials (e.g., hashed passwords or JWT tokens). This ensures that only legitimate users can access the system.
+
+- **Authorization**  
+  Role-based access control will restrict actions based on user roles (e.g., guest, host, admin). This prevents unauthorized access to sensitive data or actions.
+
+- **Rate Limiting**  
+  API requests will be limited to prevent abuse and protect the system from DDoS attacks.
+
+- **Data Validation**  
+  All inputs will be validated to prevent attacks such as SQL injection or data corruption.
+
+- **Secure Payments**  
+  Payment information will be handled securely to protect user financial data and ensure transactions are trustworthy.
+
+Security is crucial to protect user data, maintain trust, prevent fraud, and ensure the system operates reliably.
+
 
